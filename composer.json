@@ -1,0 +1,11 @@
+{
+    "name": "v-bc-shashi/masterpass-sdk",
+    "version": "4.1",
+    "description": "Mastercard MasterPass Wallet SDK",
+    "keywords": ["mastercard", "masterpass", "wallet", "php", "sdk"],
+    "type": "library",
+    "homepage": "https://www.masterpass.com",
+    "autoload": {
+        "classmap": ["/"]
+    } 
+}
